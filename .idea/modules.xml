@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dolphin_memory_engine.iml" filepath="$PROJECT_DIR$/.idea/dolphin_memory_engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dolphin-memory-engine-pyscripting.iml" filepath="$PROJECT_DIR$/.idea/dolphin-memory-engine-pyscripting.iml" />
     </modules>
   </component>
 </project>
