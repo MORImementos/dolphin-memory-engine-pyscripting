@@ -1,0 +1,1109 @@
+{
+    "watchList": [
+        {
+            "groupEntries": [
+                {
+                    "address": "8044AFDF",
+                    "baseIndex": 0,
+                    "label": "Course",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "8044AFE7",
+                    "baseIndex": 0,
+                    "label": "Round format",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "8044BD9B",
+                    "baseIndex": 0,
+                    "label": "Regular/tournament Greens",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "8044AFE3",
+                    "baseIndex": 0,
+                    "label": "Tee (Generic)",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "8017603C",
+                            "baseIndex": 0,
+                            "label": "P1 port",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6674",
+                            "baseIndex": 0,
+                            "label": "P1 port (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804F1FD7",
+                            "baseIndex": 0,
+                            "label": "P1 port (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA48",
+                            "baseIndex": 0,
+                            "label": "P1 character (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA68",
+                            "baseIndex": 0,
+                            "label": "P1 star / no star (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA90",
+                            "baseIndex": 0,
+                            "label": "P1 handedness (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804F205E",
+                            "baseIndex": 0,
+                            "label": "P1 handedness (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6664",
+                            "baseIndex": 0,
+                            "label": "P1 woods (in game)",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "804E6665",
+                            "baseIndex": 0,
+                            "label": "P1 irons (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6666",
+                            "baseIndex": 0,
+                            "label": "P1 wedges (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044B007",
+                            "baseIndex": 0,
+                            "label": "P1 tee (menu)",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "80176040",
+                            "baseIndex": 0,
+                            "label": "P1 tee (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6678",
+                            "baseIndex": 0,
+                            "label": "P1 tee (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "P1 info"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "8017603D",
+                            "baseIndex": 0,
+                            "label": "P2 port",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6675",
+                            "baseIndex": 0,
+                            "label": "P2 port (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804F71DB",
+                            "baseIndex": 0,
+                            "label": "P2 port (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA4C",
+                            "baseIndex": 0,
+                            "label": "P2 character (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA6C",
+                            "baseIndex": 0,
+                            "label": "P2 star / no star (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA94",
+                            "baseIndex": 0,
+                            "label": "P2 handedness (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804F7262",
+                            "baseIndex": 0,
+                            "label": "P2 handedness (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6668",
+                            "baseIndex": 0,
+                            "label": "P2 woods (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6669",
+                            "baseIndex": 0,
+                            "label": "P2 irons (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E666A",
+                            "baseIndex": 0,
+                            "label": "P2 wedges (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044B008",
+                            "baseIndex": 0,
+                            "label": "P2 tee (menu)",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "80176041",
+                            "baseIndex": 0,
+                            "label": "P2 tee (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6679",
+                            "baseIndex": 0,
+                            "label": "P2 tee (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "P2 info"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "8017603E",
+                            "baseIndex": 0,
+                            "label": "P3 port",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6676",
+                            "baseIndex": 0,
+                            "label": "P3 port (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804FC3DF",
+                            "baseIndex": 0,
+                            "label": "P3 port (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA50",
+                            "baseIndex": 0,
+                            "label": "P3 character (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA70",
+                            "baseIndex": 0,
+                            "label": "P3 star / no star (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA98",
+                            "baseIndex": 0,
+                            "label": "P3 handedness (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804FC466",
+                            "baseIndex": 0,
+                            "label": "P3 handedness (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E666C",
+                            "baseIndex": 0,
+                            "label": "P3 woods (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E666D",
+                            "baseIndex": 0,
+                            "label": "P3 irons (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E666E",
+                            "baseIndex": 0,
+                            "label": "P3 wedges (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044B009",
+                            "baseIndex": 0,
+                            "label": "P3 tee (menu)",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "80176042",
+                            "baseIndex": 0,
+                            "label": "P3 tee (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E667A",
+                            "baseIndex": 0,
+                            "label": "P3 tee (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "P3 info"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "8017603F",
+                            "baseIndex": 0,
+                            "label": "P4 port",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6677",
+                            "baseIndex": 0,
+                            "label": "P4 port (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "805015E3",
+                            "baseIndex": 0,
+                            "label": "P4 port (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA54",
+                            "baseIndex": 0,
+                            "label": "P4 character (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA74",
+                            "baseIndex": 0,
+                            "label": "P4 star / no star (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044BA9C",
+                            "baseIndex": 0,
+                            "label": "P4 handedness (menu)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8050166A",
+                            "baseIndex": 0,
+                            "label": "P4 handedness (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6670",
+                            "baseIndex": 0,
+                            "label": "P4 woods (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6671",
+                            "baseIndex": 0,
+                            "label": "P4 irons (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E6672",
+                            "baseIndex": 0,
+                            "label": "P4 wedges (in game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8044B00A",
+                            "baseIndex": 0,
+                            "label": "P4 tee (menu)",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "80176043",
+                            "baseIndex": 0,
+                            "label": "P4 tee (in-game)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E667B",
+                            "baseIndex": 0,
+                            "label": "P4 tee (in-game) (copy)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "P4 info"
+                },
+                {
+                    "address": "802B518D",
+                    "baseIndex": 0,
+                    "label": "(Seems to correlate with menu Tee selection)",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "802B52CD",
+                    "baseIndex": 0,
+                    "label": "(Seems to correlate with menu Tee selection)",
+                    "typeIndex": 0,
+                    "unsigned": true
+                }
+            ],
+            "groupName": "Round Info"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "804E674B",
+                    "baseIndex": 0,
+                    "label": "Current hole number",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E68F6",
+                    "baseIndex": 0,
+                    "label": "Current hole number",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E68F8",
+                    "baseIndex": 0,
+                    "label": "Current hole number",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E66AC",
+                    "baseIndex": 0,
+                    "label": "Current pin number",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E6714",
+                    "baseIndex": 0,
+                    "label": "Current pin number",
+                    "typeIndex": 0,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Hole Info"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "804E6850",
+                    "baseIndex": 0,
+                    "label": "Wind heading (radians)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E6854",
+                    "baseIndex": 0,
+                    "label": "Wind speed (m/s)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E6858",
+                    "baseIndex": 0,
+                    "label": "Rain / no rain",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Weather"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "802D7368",
+                    "baseIndex": 0,
+                    "label": "Distance Remaining (Post-shot text)",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "address": "804ECD5C",
+                    "baseIndex": 0,
+                    "label": "Aiming angle (radians)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "806CB4FC",
+                    "baseIndex": 0,
+                    "label": "Player 1 shot number",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "806CB6C4",
+                    "baseIndex": 0,
+                    "label": "Player 2 shot number",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "806CB88C",
+                    "baseIndex": 0,
+                    "label": "Player 3 shot number",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "806CBA54",
+                    "baseIndex": 0,
+                    "label": "Player 4 shot number",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "804ECD50",
+                    "baseIndex": 0,
+                    "label": "Shot type",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD58",
+                    "baseIndex": 0,
+                    "label": "Club",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E364C",
+                    "baseIndex": 1,
+                    "label": "Lie ID",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E3650",
+                    "baseIndex": 0,
+                    "label": "Lie quality",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDBC",
+                    "baseIndex": 0,
+                    "label": "Lie RNG range",
+                    "typeIndex": 2,
+                    "unsigned": true
+                },
+                {
+                    "address": "804ECDC0",
+                    "baseIndex": 0,
+                    "label": "Lie RNG",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD3C",
+                    "baseIndex": 0,
+                    "label": "Random seed (for lie RNG)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDD0",
+                    "baseIndex": 0,
+                    "label": "Shot stage",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E3658",
+                    "baseIndex": 0,
+                    "label": "Shot meter player-defined length",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD54",
+                    "baseIndex": 0,
+                    "label": "Shot meter player-defined length (copy)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDD4",
+                    "baseIndex": 0,
+                    "label": "Shot meter max length",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E6768",
+                    "baseIndex": 0,
+                    "label": "Shot meter power",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD1C",
+                    "baseIndex": 0,
+                    "label": "Shot meter power (copy)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "80523CAC",
+                    "baseIndex": 0,
+                    "label": "Shot meter accuracy",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDB8",
+                    "baseIndex": 0,
+                    "label": "Manual / auto",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDA4",
+                    "baseIndex": 0,
+                    "label": "Impact point player-defined x",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDA0",
+                    "baseIndex": 0,
+                    "label": "Impact point player-defined y",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDAC",
+                    "baseIndex": 0,
+                    "label": "Impact point x",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECDA8",
+                    "baseIndex": 0,
+                    "label": "Impact point y",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD4C",
+                    "baseIndex": 0,
+                    "label": "Spin",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "804E6864",
+                            "baseIndex": 0,
+                            "label": "Pin x-coordinate",
+                            "typeIndex": 3,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "804E6868",
+                            "baseIndex": 0,
+                            "label": "Pin y-coordinate",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "804E686C",
+                            "baseIndex": 0,
+                            "label": "Pin z-coordinate",
+                            "typeIndex": 3,
+                            "unsigned": false
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "805DC0B0",
+                                    "baseIndex": 0,
+                                    "label": "p1 ball x",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "address": "805DC0C0",
+                                    "baseIndex": 0,
+                                    "label": "p1 ball y",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "address": "805DC0D0",
+                                    "baseIndex": 0,
+                                    "label": "p1 ball z",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "groupEntries": [
+                                        {
+                                            "address": "805DC110",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball x (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "805DC120",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball y (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "805DC130",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball z (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB4C4",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball x (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB4C8",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball y (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "806CB4CC",
+                                            "baseIndex": 0,
+                                            "label": "p1 ball z (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        }
+                                    ],
+                                    "groupName": "Copies"
+                                }
+                            ],
+                            "groupName": "Player 1 Coordinates"
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "805DC1B0",
+                                    "baseIndex": 0,
+                                    "label": "p2 ball x",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "address": "805DC1C0",
+                                    "baseIndex": 0,
+                                    "label": "p2 ball y",
+                                    "typeIndex": 3,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "805DC1D0",
+                                    "baseIndex": 0,
+                                    "label": "p2 ball z",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "groupEntries": [
+                                        {
+                                            "address": "805DC210",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball x (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "805DC220",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball y (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "805DC230",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball z (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB68C",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball x (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB690",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball y (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB694",
+                                            "baseIndex": 0,
+                                            "label": "p2 ball z (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        }
+                                    ],
+                                    "groupName": "Copies"
+                                }
+                            ],
+                            "groupName": "Player 2 Coordinates"
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "805DC2B0",
+                                    "baseIndex": 0,
+                                    "label": "p3 ball x",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "address": "805DC2C0",
+                                    "baseIndex": 0,
+                                    "label": "p3 ball y",
+                                    "typeIndex": 3,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "805DC2D0",
+                                    "baseIndex": 0,
+                                    "label": "p3 ball z",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "groupEntries": [
+                                        {
+                                            "address": "805DC310",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball x (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "805DC320",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball y (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "805DC330",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball z (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB854",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball x (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB858",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball y (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CB85C",
+                                            "baseIndex": 0,
+                                            "label": "p3 ball z (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        }
+                                    ],
+                                    "groupName": "Copies"
+                                }
+                            ],
+                            "groupName": "Player 3 Coordinates"
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "805DC3B0",
+                                    "baseIndex": 0,
+                                    "label": "p4 ball x",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "address": "805DC3C0",
+                                    "baseIndex": 0,
+                                    "label": "p4 ball y",
+                                    "typeIndex": 3,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "805DC3D0",
+                                    "baseIndex": 0,
+                                    "label": "p4 ball z",
+                                    "typeIndex": 3,
+                                    "unsigned": false
+                                },
+                                {
+                                    "groupEntries": [
+                                        {
+                                            "address": "805DC410",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball x (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "805DC420",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball y (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "805DC430",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball z (copy)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CBA1C",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball x (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        },
+                                        {
+                                            "address": "806CBA20",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball y (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": true
+                                        },
+                                        {
+                                            "address": "806CBA24",
+                                            "baseIndex": 0,
+                                            "label": "p4 ball z (copy 2)",
+                                            "typeIndex": 3,
+                                            "unsigned": false
+                                        }
+                                    ],
+                                    "groupName": "Copies"
+                                }
+                            ],
+                            "groupName": "Player 4 Coordinates"
+                        }
+                    ],
+                    "groupName": "Coordinates"
+                }
+            ],
+            "groupName": "Stats"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "804E68FA",
+                    "baseIndex": 0,
+                    "label": "Indicates total number of players (disables ball / character models, grids and sim lines if set to a lower value than # of players in game))",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E68FC",
+                    "baseIndex": 0,
+                    "label": "Putting mode on / off (gets rid of wind meter and flagstick)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD70",
+                    "baseIndex": 0,
+                    "label": "Sim line endpoint x",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD74",
+                    "baseIndex": 0,
+                    "label": "Sim line endpoint z",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "804ECD78",
+                    "baseIndex": 0,
+                    "label": "Sim line endpoint y",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB20",
+                    "baseIndex": 0,
+                    "label": "Current player club selection ID (row)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB24",
+                    "baseIndex": 0,
+                    "label": "Current player club selection ID (column)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB08",
+                    "baseIndex": 0,
+                    "label": "Current Player Woods Club Selection #1 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB14",
+                    "baseIndex": 0,
+                    "label": "Current Player Woods Club Selection #2 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB0C",
+                    "baseIndex": 0,
+                    "label": "Current Player Irons Club Selection #1 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB18",
+                    "baseIndex": 0,
+                    "label": "Current Player Irons Club Selection #2 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB10",
+                    "baseIndex": 0,
+                    "label": "Current Player Wedges Club Selection #1 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8044BB1C",
+                    "baseIndex": 0,
+                    "label": "Current Player Wedges Club Selection #2 (menu)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "804E68F8",
+                    "baseIndex": 0,
+                    "label": "Player Turn #",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Misc."
+        }
+    ]
+}
